@@ -19,10 +19,10 @@ from pyrogram.enums import ParseMode
 nest_asyncio.apply()
 
 # ✅ Replace with your actual credentials
-API_ID = "20686080"
-API_HASH = "c28b20c7e8d8776e585c2afb44aeabee"
-BOT_TOKEN = "8014992057:AAGn9gUOyxsulvMRJMpY7dfHCyUy3B4tyq0"
-GOOGLE_API_KEY = "AIzaSyCSVTUUPZ5DQGCFxIzgObPASjwAAh0p3B0"  # 👈 Replace with your Gemini API Key
+API_ID = "XXXXXXX"
+API_HASH = "XXXXXXXX"
+BOT_TOKEN = "XXXXXXXXX"
+GOOGLE_API_KEY = "XXXXXXXXXXX"  # 👈 Replace with your Gemini API Key
 MODEL_NAME = "gemini-1.5-flash-latest"
 
 # ✅ Pyrogram Bot Client (Use in-memory session by giving session name as a unique string)
